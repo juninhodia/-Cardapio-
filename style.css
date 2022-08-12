@@ -35,6 +35,11 @@ header h1{
     line-height: 33px;
 }
 
+.image{
+    margin-left: 526px;
+    margin-bottom: 15px;
+}
+/*header, section Importante para deixar os conteudo no meio com 300pixel*/
 header,
 section{
     max-width: 300px;
@@ -72,6 +77,10 @@ li.details{
     font-size: 14px;
     line-height:21px;
 }
+
+
+
+
 
 
 

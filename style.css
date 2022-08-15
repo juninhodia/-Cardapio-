@@ -77,6 +77,10 @@ ul li{
     display: flex;
 }
 
+li .details{
+    max-width: 90%;
+}
+
 .details p {
     color: black;
     opacity: 60%;

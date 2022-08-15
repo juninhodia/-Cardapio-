@@ -52,7 +52,7 @@ img{
 /*header, section Importante para deixar os conteudo no meio com 300pixel*/
 header,
 section{
-    width: 90% ;
+    max-width: 90%;
     margin-inline: AUTO;
 }
 

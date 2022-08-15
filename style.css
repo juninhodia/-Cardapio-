@@ -11,7 +11,7 @@
      --fifth-color:#fb8501;
 }
 body{
-    background-color: var(--fifth-color);
+    background-color: var(--bedroom-color);
     font-family: 'Roboto',sans-serif;
 }
 
@@ -60,7 +60,7 @@ section{
     margin-bottom: 30px;
 }
 section h2{
-    background-color: var(--bedroom-color);
+    background-color: var(--fifth-color);
     padding: 8px 16px;
     text-align: center;
 
@@ -80,7 +80,6 @@ ul li{
 li .details{
     max-width: 90%;
 }
-
 .details p {
     color: black;
     opacity: 60%;
